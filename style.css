@@ -381,7 +381,7 @@ h3 a:link, h3 a:hover, h3 a:visited{
 }
 
 img {
-    padding: 0 8px 5px 0;
+    padding: 5px;
 }
 
 img.left {
